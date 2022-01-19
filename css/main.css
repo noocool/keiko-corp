@@ -110,6 +110,7 @@ header .logo {
 
 header .logo img {
   width: 200px;
+  height: auto;
   border-radius: 5px 20px 5px;
   box-shadow: 0 8px 6px -6px black;
 }
